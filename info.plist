@@ -4,8 +4,6 @@
 <dict>
 	<key>bundleid</key>
 	<string>com.keivaun.mock</string>
-	<key>category</key>
-	<string>Tools</string>
 	<key>connections</key>
 	<dict>
 		<key>C55D6F86-34B1-4644-AC60-4045285E5868</key>
@@ -120,6 +118,10 @@
 			<real>170</real>
 		</dict>
 	</dict>
+	<key>userconfigurationconfig</key>
+	<array/>
+	<key>version</key>
+	<string>2.0.0</string>
 	<key>webaddress</key>
 	<string></string>
 </dict>
